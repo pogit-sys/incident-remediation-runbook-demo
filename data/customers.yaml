@@ -1,0 +1,32 @@
+# Sample customers. All names are fictional.
+# notice_days: sub-processor notice period in the DPA
+# approval_required: true if the DPA needs prior written approval, not just notice
+# profession: tax_adviser triggers the German tax-adviser confidentiality flag
+
+- name: Hartmann Steuerberatung
+  regions: [de]
+  profession: tax_adviser
+  notice_days: 30
+  approval_required: false
+  dpo_name: Dr. Lena Vogel
+  greeting: Dr. Vogel
+  dpo_email: dpo@hartmann.example
+  relationship_manager: Sam Ortiz
+
+- name: Thames Payroll Ltd
+  regions: [uk, de]
+  notice_days: 30
+  approval_required: true
+  dpo_name: Priya Shah
+  greeting: Priya
+  dpo_email: privacy@thamespayroll.example
+  relationship_manager: Sam Ortiz
+
+- name: Brightline CPA
+  regions: [us]
+  notice_days: 30
+  approval_required: false
+  dpo_name: Mark Chen
+  greeting: Mark
+  dpo_email: legal@brightline.example
+  relationship_manager: Ana Ruiz

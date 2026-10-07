@@ -1,0 +1,516 @@
+timestamp,customer,vendor,document_id,person_id,person_country,fields
+2026-09-21T08:35,Thames Payroll Ltd,NewAI,DOC-1148,THA-UK-0007,uk,name;work_email;gross_pay;net_pay
+2026-09-21T08:57,Thames Payroll Ltd,NewAI,DOC-1300,THA-UK-0159,uk,name;work_email;gross_pay;net_pay
+2026-09-21T09:34,Brightline CPA,NewAI,DOC-1430,BRI-US-0034,us,name;work_email;gross_pay;net_pay
+2026-09-21T09:48,Thames Payroll Ltd,NewAI,DOC-1208,THA-UK-0067,uk,name;work_email;gross_pay;net_pay
+2026-09-21T09:57,Thames Payroll Ltd,NewAI,DOC-1288,THA-UK-0147,uk,name;work_email;gross_pay;net_pay
+2026-09-21T10:03,Brightline CPA,NewAI,DOC-1477,BRI-US-0081,us,name;work_email;gross_pay;net_pay
+2026-09-21T10:42,Thames Payroll Ltd,NewAI,DOC-1158,THA-UK-0017,uk,name;work_email;gross_pay;net_pay
+2026-09-21T12:45,Brightline CPA,NewAI,DOC-1492,BRI-US-0096,us,name;work_email;gross_pay;net_pay
+2026-09-21T14:18,Hartmann Steuerberatung,NewAI,DOC-1121,HAR-DE-0120,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-21T14:24,Thames Payroll Ltd,NewAI,DOC-1306,THA-UK-0165,uk,name;work_email;gross_pay;net_pay
+2026-09-21T14:35,Hartmann Steuerberatung,NewAI,DOC-1039,HAR-DE-0038,de,name;work_email;gross_pay;net_pay
+2026-09-21T14:48,Thames Payroll Ltd,NewAI,DOC-1239,THA-UK-0098,uk,name;work_email;gross_pay;net_pay
+2026-09-21T15:46,Hartmann Steuerberatung,NewAI,DOC-1082,HAR-DE-0081,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-21T16:46,Thames Payroll Ltd,NewAI,DOC-1190,THA-UK-0049,uk,name;work_email;gross_pay;net_pay
+2026-09-21T17:33,Thames Payroll Ltd,NewAI,DOC-1259,THA-UK-0118,uk,name;work_email;gross_pay;net_pay
+2026-09-21T18:17,Thames Payroll Ltd,NewAI,DOC-1203,THA-UK-0062,uk,name;work_email;gross_pay;net_pay
+2026-09-21T19:54,Thames Payroll Ltd,NewAI,DOC-1373,THA-DE-0012,de,name;work_email;gross_pay;net_pay
+2026-09-21T20:17,Thames Payroll Ltd,NewAI,DOC-1167,THA-UK-0026,uk,name;work_email;gross_pay;net_pay
+2026-09-21T20:19,Hartmann Steuerberatung,NewAI,DOC-1031,HAR-DE-0030,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-09-21T20:54,Brightline CPA,NewAI,DOC-1404,BRI-US-0008,us,name;work_email;gross_pay;net_pay
+2026-09-21T21:14,Brightline CPA,NewAI,DOC-1480,BRI-US-0084,us,name;work_email;gross_pay;net_pay
+2026-09-21T21:33,Thames Payroll Ltd,NewAI,DOC-1286,THA-UK-0145,uk,name;work_email;gross_pay;net_pay
+2026-09-21T23:02,Hartmann Steuerberatung,NewAI,DOC-1078,HAR-DE-0077,de,name;work_email;gross_pay;net_pay
+2026-09-21T23:15,Hartmann Steuerberatung,NewAI,DOC-1065,HAR-DE-0064,de,name;work_email;gross_pay;net_pay;sick_pay;church_tax
+2026-09-21T23:50,Thames Payroll Ltd,NewAI,DOC-1332,THA-UK-0191,uk,name;work_email;gross_pay;net_pay
+2026-09-22T00:32,Brightline CPA,NewAI,DOC-1454,BRI-US-0058,us,name;work_email;gross_pay;net_pay
+2026-09-22T01:01,Thames Payroll Ltd,NewAI,DOC-1194,THA-UK-0053,uk,name;work_email;gross_pay;net_pay
+2026-09-22T01:25,Brightline CPA,NewAI,DOC-1422,BRI-US-0026,us,name;work_email;gross_pay;net_pay
+2026-09-22T02:29,Brightline CPA,NewAI,DOC-1510,BRI-US-0114,us,name;work_email;gross_pay;net_pay
+2026-09-22T02:48,Thames Payroll Ltd,NewAI,DOC-1143,THA-UK-0002,uk,name;work_email;gross_pay;net_pay
+2026-09-22T03:02,Brightline CPA,NewAI,DOC-1460,BRI-US-0064,us,name;work_email;gross_pay;net_pay
+2026-09-22T06:12,Brightline CPA,NewAI,DOC-1458,BRI-US-0062,us,name;work_email;gross_pay;net_pay
+2026-09-22T06:45,Thames Payroll Ltd,NewAI,DOC-1165,THA-UK-0024,uk,name;work_email;gross_pay;net_pay
+2026-09-22T06:51,Thames Payroll Ltd,NewAI,DOC-1195,THA-UK-0054,uk,name;work_email;gross_pay;net_pay
+2026-09-22T07:35,Hartmann Steuerberatung,NewAI,DOC-1122,HAR-DE-0121,de,name;work_email;gross_pay;net_pay;sick_pay;church_tax
+2026-09-22T07:48,Brightline CPA,NewAI,DOC-1472,BRI-US-0076,us,name;work_email;gross_pay;net_pay
+2026-09-22T07:54,Thames Payroll Ltd,NewAI,DOC-1182,THA-UK-0041,uk,name;work_email;gross_pay;net_pay
+2026-09-22T09:26,Hartmann Steuerberatung,NewAI,DOC-1008,HAR-DE-0007,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-22T09:31,Thames Payroll Ltd,NewAI,DOC-1229,THA-UK-0088,uk,name;work_email;gross_pay;net_pay
+2026-09-22T10:21,Thames Payroll Ltd,NewAI,DOC-1318,THA-UK-0177,uk,name;work_email;gross_pay;net_pay
+2026-09-22T10:22,Hartmann Steuerberatung,NewAI,DOC-1001,HAR-DE-0000,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-22T10:44,Thames Payroll Ltd,NewAI,DOC-1345,THA-UK-0204,uk,name;work_email;gross_pay;net_pay
+2026-09-22T10:54,Brightline CPA,NewAI,DOC-1444,BRI-US-0048,us,name;work_email;gross_pay;net_pay
+2026-09-22T11:01,Thames Payroll Ltd,NewAI,DOC-1338,THA-UK-0197,uk,name;work_email;gross_pay;net_pay
+2026-09-22T11:43,Thames Payroll Ltd,NewAI,DOC-1202,THA-UK-0061,uk,name;work_email;gross_pay;net_pay
+2026-09-22T12:11,Thames Payroll Ltd,NewAI,DOC-1321,THA-UK-0180,uk,name;work_email;gross_pay;net_pay
+2026-09-22T12:18,Brightline CPA,NewAI,DOC-1408,BRI-US-0012,us,name;work_email;gross_pay;net_pay
+2026-09-22T13:29,Hartmann Steuerberatung,NewAI,DOC-1043,HAR-DE-0042,de,name;work_email;gross_pay;net_pay
+2026-09-22T13:41,Brightline CPA,NewAI,DOC-1402,BRI-US-0006,us,name;work_email;gross_pay;net_pay
+2026-09-22T14:12,Thames Payroll Ltd,NewAI,DOC-1387,THA-DE-0026,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-09-22T14:15,Hartmann Steuerberatung,NewAI,DOC-1136,HAR-DE-0135,de,name;work_email;gross_pay;net_pay;sick_pay;church_tax
+2026-09-22T14:48,Brightline CPA,NewAI,DOC-1398,BRI-US-0002,us,name;work_email;gross_pay;net_pay
+2026-09-22T16:11,Hartmann Steuerberatung,NewAI,DOC-1033,HAR-DE-0032,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-22T16:33,Hartmann Steuerberatung,NewAI,DOC-1013,HAR-DE-0012,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-22T16:50,Brightline CPA,NewAI,DOC-1409,BRI-US-0013,us,name;work_email;gross_pay;net_pay
+2026-09-22T17:07,Thames Payroll Ltd,NewAI,DOC-1241,THA-UK-0100,uk,name;work_email;gross_pay;net_pay
+2026-09-22T17:51,Brightline CPA,NewAI,DOC-1463,BRI-US-0067,us,name;work_email;gross_pay;net_pay
+2026-09-22T18:10,Brightline CPA,NewAI,DOC-1462,BRI-US-0066,us,name;work_email;gross_pay;net_pay
+2026-09-22T18:19,Brightline CPA,NewAI,DOC-1466,BRI-US-0070,us,name;work_email;gross_pay;net_pay
+2026-09-22T19:21,Brightline CPA,NewAI,DOC-1509,BRI-US-0113,us,name;work_email;gross_pay;net_pay
+2026-09-22T19:29,Thames Payroll Ltd,NewAI,DOC-1310,THA-UK-0169,uk,name;work_email;gross_pay;net_pay
+2026-09-22T19:40,Brightline CPA,NewAI,DOC-1479,BRI-US-0083,us,name;work_email;gross_pay;net_pay
+2026-09-22T20:04,Thames Payroll Ltd,NewAI,DOC-1215,THA-UK-0074,uk,name;work_email;gross_pay;net_pay
+2026-09-22T20:46,Hartmann Steuerberatung,NewAI,DOC-1045,HAR-DE-0044,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-09-22T21:33,Hartmann Steuerberatung,NewAI,DOC-1027,HAR-DE-0026,de,name;work_email;gross_pay;net_pay
+2026-09-22T22:17,Thames Payroll Ltd,NewAI,DOC-1210,THA-UK-0069,uk,name;work_email;gross_pay;net_pay
+2026-09-22T23:32,Hartmann Steuerberatung,NewAI,DOC-1117,HAR-DE-0116,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-22T23:37,Hartmann Steuerberatung,NewAI,DOC-1100,HAR-DE-0099,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-09-22T23:58,Hartmann Steuerberatung,NewAI,DOC-1021,HAR-DE-0020,de,name;work_email;gross_pay;net_pay
+2026-09-23T00:39,Thames Payroll Ltd,NewAI,DOC-1218,THA-UK-0077,uk,name;work_email;gross_pay;net_pay
+2026-09-23T00:44,Thames Payroll Ltd,NewAI,DOC-1269,THA-UK-0128,uk,name;work_email;gross_pay;net_pay
+2026-09-23T01:43,Thames Payroll Ltd,NewAI,DOC-1314,THA-UK-0173,uk,name;work_email;gross_pay;net_pay
+2026-09-23T01:45,Thames Payroll Ltd,NewAI,DOC-1262,THA-UK-0121,uk,name;work_email;gross_pay;net_pay
+2026-09-23T01:54,Thames Payroll Ltd,NewAI,DOC-1226,THA-UK-0085,uk,name;work_email;gross_pay;net_pay
+2026-09-23T02:18,Thames Payroll Ltd,NewAI,DOC-1231,THA-UK-0090,uk,name;work_email;gross_pay;net_pay
+2026-09-23T02:43,Brightline CPA,NewAI,DOC-1431,BRI-US-0035,us,name;work_email;gross_pay;net_pay
+2026-09-23T03:09,Brightline CPA,NewAI,DOC-1502,BRI-US-0106,us,name;work_email;gross_pay;net_pay
+2026-09-23T03:20,Brightline CPA,NewAI,DOC-1415,BRI-US-0019,us,name;work_email;gross_pay;net_pay
+2026-09-23T04:00,Thames Payroll Ltd,NewAI,DOC-1337,THA-UK-0196,uk,name;work_email;gross_pay;net_pay
+2026-09-23T04:06,Brightline CPA,NewAI,DOC-1433,BRI-US-0037,us,name;work_email;gross_pay;net_pay
+2026-09-23T04:17,Thames Payroll Ltd,NewAI,DOC-1388,THA-DE-0027,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-09-23T05:44,Hartmann Steuerberatung,NewAI,DOC-1119,HAR-DE-0118,de,name;work_email;gross_pay;net_pay
+2026-09-23T05:48,Thames Payroll Ltd,NewAI,DOC-1151,THA-UK-0010,uk,name;work_email;gross_pay;net_pay
+2026-09-23T06:08,Thames Payroll Ltd,NewAI,DOC-1171,THA-UK-0030,uk,name;work_email;gross_pay;net_pay
+2026-09-23T06:18,Hartmann Steuerberatung,NewAI,DOC-1072,HAR-DE-0071,de,name;work_email;gross_pay;net_pay
+2026-09-23T06:22,Hartmann Steuerberatung,NewAI,DOC-1076,HAR-DE-0075,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-09-23T06:28,Thames Payroll Ltd,NewAI,DOC-1193,THA-UK-0052,uk,name;work_email;gross_pay;net_pay
+2026-09-23T06:53,Thames Payroll Ltd,NewAI,DOC-1257,THA-UK-0116,uk,name;work_email;gross_pay;net_pay
+2026-09-23T06:56,Hartmann Steuerberatung,NewAI,DOC-1003,HAR-DE-0002,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-23T07:55,Brightline CPA,NewAI,DOC-1443,BRI-US-0047,us,name;work_email;gross_pay;net_pay
+2026-09-23T08:22,Hartmann Steuerberatung,NewAI,DOC-1118,HAR-DE-0117,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-23T08:51,Hartmann Steuerberatung,NewAI,DOC-1116,HAR-DE-0115,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-09-23T09:01,Thames Payroll Ltd,NewAI,DOC-1161,THA-UK-0020,uk,name;work_email;gross_pay;net_pay
+2026-09-23T09:19,Thames Payroll Ltd,NewAI,DOC-1271,THA-UK-0130,uk,name;work_email;gross_pay;net_pay
+2026-09-23T09:32,Hartmann Steuerberatung,NewAI,DOC-1004,HAR-DE-0003,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-23T09:32,Thames Payroll Ltd,NewAI,DOC-1365,THA-DE-0004,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-23T09:37,Thames Payroll Ltd,NewAI,DOC-1159,THA-UK-0018,uk,name;work_email;gross_pay;net_pay
+2026-09-23T09:42,Hartmann Steuerberatung,NewAI,DOC-1058,HAR-DE-0057,de,name;work_email;gross_pay;net_pay
+2026-09-23T10:12,Thames Payroll Ltd,NewAI,DOC-1213,THA-UK-0072,uk,name;work_email;gross_pay;net_pay
+2026-09-23T10:34,Thames Payroll Ltd,NewAI,DOC-1370,THA-DE-0009,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-09-23T11:24,Hartmann Steuerberatung,NewAI,DOC-1104,HAR-DE-0103,de,name;work_email;gross_pay;net_pay
+2026-09-23T13:12,Hartmann Steuerberatung,NewAI,DOC-1012,HAR-DE-0011,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-23T14:18,Thames Payroll Ltd,NewAI,DOC-1382,THA-DE-0021,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-09-23T14:21,Thames Payroll Ltd,NewAI,DOC-1244,THA-UK-0103,uk,name;work_email;gross_pay;net_pay
+2026-09-23T15:24,Hartmann Steuerberatung,NewAI,DOC-1048,HAR-DE-0047,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-23T15:32,Thames Payroll Ltd,NewAI,DOC-1320,THA-UK-0179,uk,name;work_email;gross_pay;net_pay
+2026-09-23T15:54,Hartmann Steuerberatung,NewAI,DOC-1047,HAR-DE-0046,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-09-23T16:07,Hartmann Steuerberatung,NewAI,DOC-1083,HAR-DE-0082,de,name;work_email;gross_pay;net_pay
+2026-09-23T17:13,Hartmann Steuerberatung,NewAI,DOC-1112,HAR-DE-0111,de,name;work_email;gross_pay;net_pay
+2026-09-23T17:17,Thames Payroll Ltd,NewAI,DOC-1198,THA-UK-0057,uk,name;work_email;gross_pay;net_pay
+2026-09-23T18:34,Brightline CPA,NewAI,DOC-1482,BRI-US-0086,us,name;work_email;gross_pay;net_pay
+2026-09-23T19:30,Brightline CPA,NewAI,DOC-1429,BRI-US-0033,us,name;work_email;gross_pay;net_pay
+2026-09-23T21:32,Thames Payroll Ltd,NewAI,DOC-1280,THA-UK-0139,uk,name;work_email;gross_pay;net_pay
+2026-09-23T21:37,Hartmann Steuerberatung,NewAI,DOC-1110,HAR-DE-0109,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-09-23T21:49,Brightline CPA,NewAI,DOC-1414,BRI-US-0018,us,name;work_email;gross_pay;net_pay
+2026-09-24T00:43,Thames Payroll Ltd,NewAI,DOC-1253,THA-UK-0112,uk,name;work_email;gross_pay;net_pay
+2026-09-24T01:23,Thames Payroll Ltd,NewAI,DOC-1361,THA-DE-0000,de,name;work_email;gross_pay;net_pay
+2026-09-24T01:29,Hartmann Steuerberatung,NewAI,DOC-1073,HAR-DE-0072,de,name;work_email;gross_pay;net_pay
+2026-09-24T01:33,Thames Payroll Ltd,NewAI,DOC-1304,THA-UK-0163,uk,name;work_email;gross_pay;net_pay
+2026-09-24T02:01,Thames Payroll Ltd,NewAI,DOC-1298,THA-UK-0157,uk,name;work_email;gross_pay;net_pay
+2026-09-24T03:33,Brightline CPA,NewAI,DOC-1436,BRI-US-0040,us,name;work_email;gross_pay;net_pay
+2026-09-24T03:36,Hartmann Steuerberatung,NewAI,DOC-1005,HAR-DE-0004,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-24T04:37,Thames Payroll Ltd,NewAI,DOC-1379,THA-DE-0018,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-24T05:31,Thames Payroll Ltd,NewAI,DOC-1347,THA-UK-0206,uk,name;work_email;gross_pay;net_pay
+2026-09-24T06:53,Hartmann Steuerberatung,NewAI,DOC-1135,HAR-DE-0134,de,name;work_email;gross_pay;net_pay
+2026-09-24T07:35,Hartmann Steuerberatung,NewAI,DOC-1087,HAR-DE-0086,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-09-24T08:25,Thames Payroll Ltd,NewAI,DOC-1276,THA-UK-0135,uk,name;work_email;gross_pay;net_pay
+2026-09-24T08:28,Brightline CPA,NewAI,DOC-1489,BRI-US-0093,us,name;work_email;gross_pay;net_pay
+2026-09-24T08:41,Thames Payroll Ltd,NewAI,DOC-1196,THA-UK-0055,uk,name;work_email;gross_pay;net_pay
+2026-09-24T08:52,Thames Payroll Ltd,NewAI,DOC-1238,THA-UK-0097,uk,name;work_email;gross_pay;net_pay
+2026-09-24T10:53,Hartmann Steuerberatung,NewAI,DOC-1099,HAR-DE-0098,de,name;work_email;gross_pay;net_pay
+2026-09-24T11:40,Thames Payroll Ltd,NewAI,DOC-1342,THA-UK-0201,uk,name;work_email;gross_pay;net_pay
+2026-09-24T12:04,Thames Payroll Ltd,NewAI,DOC-1186,THA-UK-0045,uk,name;work_email;gross_pay;net_pay
+2026-09-24T12:50,Thames Payroll Ltd,NewAI,DOC-1293,THA-UK-0152,uk,name;work_email;gross_pay;net_pay
+2026-09-24T13:24,Thames Payroll Ltd,NewAI,DOC-1272,THA-UK-0131,uk,name;work_email;gross_pay;net_pay
+2026-09-24T13:30,Brightline CPA,NewAI,DOC-1406,BRI-US-0010,us,name;work_email;gross_pay;net_pay
+2026-09-24T14:34,Thames Payroll Ltd,NewAI,DOC-1162,THA-UK-0021,uk,name;work_email;gross_pay;net_pay
+2026-09-24T15:03,Thames Payroll Ltd,NewAI,DOC-1181,THA-UK-0040,uk,name;work_email;gross_pay;net_pay
+2026-09-24T15:56,Brightline CPA,NewAI,DOC-1400,BRI-US-0004,us,name;work_email;gross_pay;net_pay
+2026-09-24T16:30,Thames Payroll Ltd,NewAI,DOC-1233,THA-UK-0092,uk,name;work_email;gross_pay;net_pay
+2026-09-24T17:19,Thames Payroll Ltd,NewAI,DOC-1323,THA-UK-0182,uk,name;work_email;gross_pay;net_pay
+2026-09-24T17:37,Thames Payroll Ltd,NewAI,DOC-1179,THA-UK-0038,uk,name;work_email;gross_pay;net_pay
+2026-09-24T17:48,Hartmann Steuerberatung,NewAI,DOC-1090,HAR-DE-0089,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-09-24T18:38,Brightline CPA,NewAI,DOC-1494,BRI-US-0098,us,name;work_email;gross_pay;net_pay
+2026-09-24T19:00,Hartmann Steuerberatung,NewAI,DOC-1022,HAR-DE-0021,de,name;work_email;gross_pay;net_pay;church_tax;sick_pay
+2026-09-24T20:18,Thames Payroll Ltd,NewAI,DOC-1377,THA-DE-0016,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-24T20:47,Thames Payroll Ltd,NewAI,DOC-1174,THA-UK-0033,uk,name;work_email;gross_pay;net_pay
+2026-09-24T22:52,Thames Payroll Ltd,NewAI,DOC-1287,THA-UK-0146,uk,name;work_email;gross_pay;net_pay
+2026-09-24T23:20,Brightline CPA,NewAI,DOC-1506,BRI-US-0110,us,name;work_email;gross_pay;net_pay
+2026-09-24T23:45,Brightline CPA,NewAI,DOC-1515,BRI-US-0119,us,name;work_email;gross_pay;net_pay
+2026-09-25T00:10,Hartmann Steuerberatung,NewAI,DOC-1055,HAR-DE-0054,de,name;work_email;gross_pay;net_pay
+2026-09-25T00:10,Hartmann Steuerberatung,NewAI,DOC-1105,HAR-DE-0104,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-09-25T00:10,Hartmann Steuerberatung,NewAI,DOC-1123,HAR-DE-0122,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-25T02:27,Brightline CPA,NewAI,DOC-1416,BRI-US-0020,us,name;work_email;gross_pay;net_pay
+2026-09-25T04:26,Brightline CPA,NewAI,DOC-1428,BRI-US-0032,us,name;work_email;gross_pay;net_pay
+2026-09-25T04:50,Hartmann Steuerberatung,NewAI,DOC-1077,HAR-DE-0076,de,name;work_email;gross_pay;net_pay
+2026-09-25T05:15,Thames Payroll Ltd,NewAI,DOC-1348,THA-UK-0207,uk,name;work_email;gross_pay;net_pay
+2026-09-25T11:54,Brightline CPA,NewAI,DOC-1491,BRI-US-0095,us,name;work_email;gross_pay;net_pay
+2026-09-25T11:55,Thames Payroll Ltd,NewAI,DOC-1147,THA-UK-0006,uk,name;work_email;gross_pay;net_pay
+2026-09-25T12:32,Brightline CPA,NewAI,DOC-1410,BRI-US-0014,us,name;work_email;gross_pay;net_pay
+2026-09-25T13:13,Hartmann Steuerberatung,NewAI,DOC-1138,HAR-DE-0137,de,name;work_email;gross_pay;net_pay;church_tax;sick_pay
+2026-09-25T13:18,Brightline CPA,NewAI,DOC-1419,BRI-US-0023,us,name;work_email;gross_pay;net_pay
+2026-09-25T15:40,Thames Payroll Ltd,NewAI,DOC-1329,THA-UK-0188,uk,name;work_email;gross_pay;net_pay
+2026-09-25T16:08,Brightline CPA,NewAI,DOC-1418,BRI-US-0022,us,name;work_email;gross_pay;net_pay
+2026-09-25T17:25,Brightline CPA,NewAI,DOC-1450,BRI-US-0054,us,name;work_email;gross_pay;net_pay
+2026-09-25T17:54,Thames Payroll Ltd,NewAI,DOC-1393,THA-DE-0032,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-25T18:23,Hartmann Steuerberatung,NewAI,DOC-1084,HAR-DE-0083,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-25T18:27,Brightline CPA,NewAI,DOC-1465,BRI-US-0069,us,name;work_email;gross_pay;net_pay
+2026-09-25T18:34,Hartmann Steuerberatung,NewAI,DOC-1062,HAR-DE-0061,de,name;work_email;gross_pay;net_pay
+2026-09-25T18:53,Brightline CPA,NewAI,DOC-1446,BRI-US-0050,us,name;work_email;gross_pay;net_pay
+2026-09-25T18:54,Thames Payroll Ltd,NewAI,DOC-1305,THA-UK-0164,uk,name;work_email;gross_pay;net_pay
+2026-09-25T19:45,Brightline CPA,NewAI,DOC-1504,BRI-US-0108,us,name;work_email;gross_pay;net_pay
+2026-09-25T20:10,Thames Payroll Ltd,NewAI,DOC-1391,THA-DE-0030,de,name;work_email;gross_pay;net_pay
+2026-09-25T20:17,Thames Payroll Ltd,NewAI,DOC-1230,THA-UK-0089,uk,name;work_email;gross_pay;net_pay
+2026-09-25T20:49,Thames Payroll Ltd,NewAI,DOC-1255,THA-UK-0114,uk,name;work_email;gross_pay;net_pay
+2026-09-25T20:51,Hartmann Steuerberatung,NewAI,DOC-1074,HAR-DE-0073,de,name;work_email;gross_pay;net_pay
+2026-09-25T21:45,Thames Payroll Ltd,NewAI,DOC-1155,THA-UK-0014,uk,name;work_email;gross_pay;net_pay
+2026-09-25T22:38,Hartmann Steuerberatung,NewAI,DOC-1098,HAR-DE-0097,de,name;work_email;gross_pay;net_pay
+2026-09-25T23:06,Thames Payroll Ltd,NewAI,DOC-1336,THA-UK-0195,uk,name;work_email;gross_pay;net_pay
+2026-09-26T00:04,Thames Payroll Ltd,NewAI,DOC-1221,THA-UK-0080,uk,name;work_email;gross_pay;net_pay
+2026-09-26T00:04,Thames Payroll Ltd,NewAI,DOC-1392,THA-DE-0031,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-09-26T01:16,Brightline CPA,NewAI,DOC-1438,BRI-US-0042,us,name;work_email;gross_pay;net_pay
+2026-09-26T01:31,Thames Payroll Ltd,NewAI,DOC-1362,THA-DE-0001,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-26T02:35,Thames Payroll Ltd,NewAI,DOC-1267,THA-UK-0126,uk,name;work_email;gross_pay;net_pay
+2026-09-26T03:04,Thames Payroll Ltd,NewAI,DOC-1268,THA-UK-0127,uk,name;work_email;gross_pay;net_pay
+2026-09-26T03:15,Hartmann Steuerberatung,NewAI,DOC-1085,HAR-DE-0084,de,name;work_email;gross_pay;net_pay
+2026-09-26T04:17,Brightline CPA,NewAI,DOC-1403,BRI-US-0007,us,name;work_email;gross_pay;net_pay
+2026-09-26T05:31,Hartmann Steuerberatung,NewAI,DOC-1132,HAR-DE-0131,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-09-26T06:53,Thames Payroll Ltd,NewAI,DOC-1245,THA-UK-0104,uk,name;work_email;gross_pay;net_pay
+2026-09-26T06:59,Thames Payroll Ltd,NewAI,DOC-1145,THA-UK-0004,uk,name;work_email;gross_pay;net_pay
+2026-09-26T07:55,Hartmann Steuerberatung,NewAI,DOC-1103,HAR-DE-0102,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-26T09:27,Hartmann Steuerberatung,NewAI,DOC-1120,HAR-DE-0119,de,name;work_email;gross_pay;net_pay
+2026-09-26T09:40,Hartmann Steuerberatung,NewAI,DOC-1060,HAR-DE-0059,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-26T09:57,Thames Payroll Ltd,NewAI,DOC-1395,THA-DE-0034,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-09-26T11:49,Hartmann Steuerberatung,NewAI,DOC-1064,HAR-DE-0063,de,name;work_email;gross_pay;net_pay
+2026-09-26T12:49,Hartmann Steuerberatung,NewAI,DOC-1111,HAR-DE-0110,de,name;work_email;gross_pay;net_pay
+2026-09-26T13:34,Thames Payroll Ltd,NewAI,DOC-1192,THA-UK-0051,uk,name;work_email;gross_pay;net_pay
+2026-09-26T14:00,Thames Payroll Ltd,NewAI,DOC-1222,THA-UK-0081,uk,name;work_email;gross_pay;net_pay
+2026-09-26T14:01,Hartmann Steuerberatung,NewAI,DOC-1037,HAR-DE-0036,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-09-26T14:21,Thames Payroll Ltd,NewAI,DOC-1282,THA-UK-0141,uk,name;work_email;gross_pay;net_pay
+2026-09-26T14:40,Hartmann Steuerberatung,NewAI,DOC-1038,HAR-DE-0037,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-26T15:08,Thames Payroll Ltd,NewAI,DOC-1170,THA-UK-0029,uk,name;work_email;gross_pay;net_pay
+2026-09-26T15:43,Brightline CPA,NewAI,DOC-1481,BRI-US-0085,us,name;work_email;gross_pay;net_pay
+2026-09-26T16:13,Thames Payroll Ltd,NewAI,DOC-1220,THA-UK-0079,uk,name;work_email;gross_pay;net_pay
+2026-09-26T16:57,Brightline CPA,NewAI,DOC-1496,BRI-US-0100,us,name;work_email;gross_pay;net_pay
+2026-09-26T18:20,Thames Payroll Ltd,NewAI,DOC-1357,THA-UK-0216,uk,name;work_email;gross_pay;net_pay
+2026-09-26T18:35,Thames Payroll Ltd,NewAI,DOC-1366,THA-DE-0005,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-26T20:21,Thames Payroll Ltd,NewAI,DOC-1385,THA-DE-0024,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-09-26T21:18,Hartmann Steuerberatung,NewAI,DOC-1018,HAR-DE-0017,de,name;work_email;gross_pay;net_pay
+2026-09-26T21:30,Thames Payroll Ltd,NewAI,DOC-1142,THA-UK-0001,uk,name;work_email;gross_pay;net_pay
+2026-09-26T21:33,Thames Payroll Ltd,NewAI,DOC-1205,THA-UK-0064,uk,name;work_email;gross_pay;net_pay
+2026-09-26T22:55,Thames Payroll Ltd,NewAI,DOC-1386,THA-DE-0025,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-26T23:03,Brightline CPA,NewAI,DOC-1507,BRI-US-0111,us,name;work_email;gross_pay;net_pay
+2026-09-26T23:26,Brightline CPA,NewAI,DOC-1456,BRI-US-0060,us,name;work_email;gross_pay;net_pay
+2026-09-26T23:32,Thames Payroll Ltd,NewAI,DOC-1156,THA-UK-0015,uk,name;work_email;gross_pay;net_pay
+2026-09-26T23:40,Hartmann Steuerberatung,NewAI,DOC-1017,HAR-DE-0016,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-09-26T23:42,Hartmann Steuerberatung,NewAI,DOC-1092,HAR-DE-0091,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-09-27T00:09,Thames Payroll Ltd,NewAI,DOC-1324,THA-UK-0183,uk,name;work_email;gross_pay;net_pay
+2026-09-27T00:46,Hartmann Steuerberatung,NewAI,DOC-1128,HAR-DE-0127,de,name;work_email;gross_pay;net_pay
+2026-09-27T01:06,Brightline CPA,NewAI,DOC-1486,BRI-US-0090,us,name;work_email;gross_pay;net_pay
+2026-09-27T01:30,Thames Payroll Ltd,NewAI,DOC-1381,THA-DE-0020,de,name;work_email;gross_pay;net_pay
+2026-09-27T01:43,Thames Payroll Ltd,NewAI,DOC-1217,THA-UK-0076,uk,name;work_email;gross_pay;net_pay
+2026-09-27T02:17,Thames Payroll Ltd,NewAI,DOC-1308,THA-UK-0167,uk,name;work_email;gross_pay;net_pay
+2026-09-27T02:41,Thames Payroll Ltd,NewAI,DOC-1235,THA-UK-0094,uk,name;work_email;gross_pay;net_pay
+2026-09-27T03:40,Thames Payroll Ltd,NewAI,DOC-1354,THA-UK-0213,uk,name;work_email;gross_pay;net_pay
+2026-09-27T04:21,Brightline CPA,NewAI,DOC-1464,BRI-US-0068,us,name;work_email;gross_pay;net_pay
+2026-09-27T05:14,Hartmann Steuerberatung,NewAI,DOC-1115,HAR-DE-0114,de,name;work_email;gross_pay;net_pay
+2026-09-27T05:46,Hartmann Steuerberatung,NewAI,DOC-1097,HAR-DE-0096,de,name;work_email;gross_pay;net_pay
+2026-09-27T06:05,Thames Payroll Ltd,NewAI,DOC-1355,THA-UK-0214,uk,name;work_email;gross_pay;net_pay
+2026-09-27T06:28,Thames Payroll Ltd,NewAI,DOC-1383,THA-DE-0022,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-27T06:36,Hartmann Steuerberatung,NewAI,DOC-1059,HAR-DE-0058,de,name;work_email;gross_pay;net_pay
+2026-09-27T06:58,Thames Payroll Ltd,NewAI,DOC-1274,THA-UK-0133,uk,name;work_email;gross_pay;net_pay
+2026-09-27T07:10,Brightline CPA,NewAI,DOC-1473,BRI-US-0077,us,name;work_email;gross_pay;net_pay
+2026-09-27T08:03,Thames Payroll Ltd,NewAI,DOC-1207,THA-UK-0066,uk,name;work_email;gross_pay;net_pay
+2026-09-27T08:16,Thames Payroll Ltd,NewAI,DOC-1160,THA-UK-0019,uk,name;work_email;gross_pay;net_pay
+2026-09-27T09:01,Thames Payroll Ltd,NewAI,DOC-1219,THA-UK-0078,uk,name;work_email;gross_pay;net_pay
+2026-09-27T09:07,Thames Payroll Ltd,NewAI,DOC-1325,THA-UK-0184,uk,name;work_email;gross_pay;net_pay
+2026-09-27T10:43,Thames Payroll Ltd,NewAI,DOC-1265,THA-UK-0124,uk,name;work_email;gross_pay;net_pay
+2026-09-27T10:47,Thames Payroll Ltd,NewAI,DOC-1243,THA-UK-0102,uk,name;work_email;gross_pay;net_pay
+2026-09-27T11:25,Hartmann Steuerberatung,NewAI,DOC-1028,HAR-DE-0027,de,name;work_email;gross_pay;net_pay
+2026-09-27T11:35,Thames Payroll Ltd,NewAI,DOC-1368,THA-DE-0007,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-27T11:41,Hartmann Steuerberatung,NewAI,DOC-1113,HAR-DE-0112,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-09-27T12:43,Brightline CPA,NewAI,DOC-1470,BRI-US-0074,us,name;work_email;gross_pay;net_pay
+2026-09-27T14:16,Thames Payroll Ltd,NewAI,DOC-1317,THA-UK-0176,uk,name;work_email;gross_pay;net_pay
+2026-09-27T14:31,Brightline CPA,NewAI,DOC-1475,BRI-US-0079,us,name;work_email;gross_pay;net_pay
+2026-09-27T15:22,Hartmann Steuerberatung,NewAI,DOC-1095,HAR-DE-0094,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-27T15:33,Thames Payroll Ltd,NewAI,DOC-1369,THA-DE-0008,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-27T16:19,Thames Payroll Ltd,NewAI,DOC-1153,THA-UK-0012,uk,name;work_email;gross_pay;net_pay
+2026-09-27T16:40,Thames Payroll Ltd,NewAI,DOC-1279,THA-UK-0138,uk,name;work_email;gross_pay;net_pay
+2026-09-27T16:48,Brightline CPA,NewAI,DOC-1432,BRI-US-0036,us,name;work_email;gross_pay;net_pay
+2026-09-27T17:15,Thames Payroll Ltd,NewAI,DOC-1319,THA-UK-0178,uk,name;work_email;gross_pay;net_pay
+2026-09-27T17:52,Thames Payroll Ltd,NewAI,DOC-1352,THA-UK-0211,uk,name;work_email;gross_pay;net_pay
+2026-09-27T17:58,Hartmann Steuerberatung,NewAI,DOC-1040,HAR-DE-0039,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-27T19:11,Thames Payroll Ltd,NewAI,DOC-1180,THA-UK-0039,uk,name;work_email;gross_pay;net_pay
+2026-09-27T19:56,Thames Payroll Ltd,NewAI,DOC-1249,THA-UK-0108,uk,name;work_email;gross_pay;net_pay
+2026-09-27T19:59,Thames Payroll Ltd,NewAI,DOC-1322,THA-UK-0181,uk,name;work_email;gross_pay;net_pay
+2026-09-27T20:18,Thames Payroll Ltd,NewAI,DOC-1343,THA-UK-0202,uk,name;work_email;gross_pay;net_pay
+2026-09-27T20:54,Thames Payroll Ltd,NewAI,DOC-1228,THA-UK-0087,uk,name;work_email;gross_pay;net_pay
+2026-09-27T21:15,Hartmann Steuerberatung,NewAI,DOC-1020,HAR-DE-0019,de,name;work_email;gross_pay;net_pay
+2026-09-27T22:09,Thames Payroll Ltd,NewAI,DOC-1260,THA-UK-0119,uk,name;work_email;gross_pay;net_pay
+2026-09-27T22:17,Thames Payroll Ltd,NewAI,DOC-1307,THA-UK-0166,uk,name;work_email;gross_pay;net_pay
+2026-09-27T22:21,Hartmann Steuerberatung,NewAI,DOC-1126,HAR-DE-0125,de,name;work_email;gross_pay;net_pay
+2026-09-27T22:50,Thames Payroll Ltd,NewAI,DOC-1247,THA-UK-0106,uk,name;work_email;gross_pay;net_pay
+2026-09-28T01:04,Thames Payroll Ltd,NewAI,DOC-1394,THA-DE-0033,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-28T02:25,Brightline CPA,NewAI,DOC-1476,BRI-US-0080,us,name;work_email;gross_pay;net_pay
+2026-09-28T02:37,Thames Payroll Ltd,NewAI,DOC-1353,THA-UK-0212,uk,name;work_email;gross_pay;net_pay
+2026-09-28T02:47,Hartmann Steuerberatung,NewAI,DOC-1057,HAR-DE-0056,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-28T03:38,Thames Payroll Ltd,NewAI,DOC-1168,THA-UK-0027,uk,name;work_email;gross_pay;net_pay
+2026-09-28T04:17,Thames Payroll Ltd,NewAI,DOC-1358,THA-UK-0217,uk,name;work_email;gross_pay;net_pay
+2026-09-28T04:54,Thames Payroll Ltd,NewAI,DOC-1292,THA-UK-0151,uk,name;work_email;gross_pay;net_pay
+2026-09-28T05:39,Brightline CPA,NewAI,DOC-1493,BRI-US-0097,us,name;work_email;gross_pay;net_pay
+2026-09-28T05:54,Thames Payroll Ltd,NewAI,DOC-1380,THA-DE-0019,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-28T06:09,Thames Payroll Ltd,NewAI,DOC-1169,THA-UK-0028,uk,name;work_email;gross_pay;net_pay
+2026-09-28T06:15,Thames Payroll Ltd,NewAI,DOC-1236,THA-UK-0095,uk,name;work_email;gross_pay;net_pay
+2026-09-28T08:28,Hartmann Steuerberatung,NewAI,DOC-1010,HAR-DE-0009,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-28T08:35,Brightline CPA,NewAI,DOC-1441,BRI-US-0045,us,name;work_email;gross_pay;net_pay
+2026-09-28T09:03,Thames Payroll Ltd,NewAI,DOC-1144,THA-UK-0003,uk,name;work_email;gross_pay;net_pay
+2026-09-28T09:05,Hartmann Steuerberatung,NewAI,DOC-1029,HAR-DE-0028,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-28T10:12,Thames Payroll Ltd,NewAI,DOC-1256,THA-UK-0115,uk,name;work_email;gross_pay;net_pay
+2026-09-28T10:17,Brightline CPA,NewAI,DOC-1423,BRI-US-0027,us,name;work_email;gross_pay;net_pay
+2026-09-28T10:23,Hartmann Steuerberatung,NewAI,DOC-1124,HAR-DE-0123,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-28T11:20,Hartmann Steuerberatung,NewAI,DOC-1025,HAR-DE-0024,de,name;work_email;gross_pay;net_pay
+2026-09-28T11:35,Brightline CPA,NewAI,DOC-1413,BRI-US-0017,us,name;work_email;gross_pay;net_pay
+2026-09-28T12:21,Thames Payroll Ltd,NewAI,DOC-1328,THA-UK-0187,uk,name;work_email;gross_pay;net_pay
+2026-09-28T12:37,Thames Payroll Ltd,NewAI,DOC-1297,THA-UK-0156,uk,name;work_email;gross_pay;net_pay
+2026-09-28T12:50,Brightline CPA,NewAI,DOC-1474,BRI-US-0078,us,name;work_email;gross_pay;net_pay
+2026-09-28T13:57,Hartmann Steuerberatung,NewAI,DOC-1107,HAR-DE-0106,de,name;work_email;gross_pay;net_pay;church_tax;sick_pay
+2026-09-28T14:30,Brightline CPA,NewAI,DOC-1498,BRI-US-0102,us,name;work_email;gross_pay;net_pay
+2026-09-28T16:34,Brightline CPA,NewAI,DOC-1451,BRI-US-0055,us,name;work_email;gross_pay;net_pay
+2026-09-28T16:41,Thames Payroll Ltd,NewAI,DOC-1141,THA-UK-0000,uk,name;work_email;gross_pay;net_pay
+2026-09-28T17:14,Thames Payroll Ltd,NewAI,DOC-1301,THA-UK-0160,uk,name;work_email;gross_pay;net_pay
+2026-09-28T17:54,Brightline CPA,NewAI,DOC-1514,BRI-US-0118,us,name;work_email;gross_pay;net_pay
+2026-09-28T18:06,Thames Payroll Ltd,NewAI,DOC-1177,THA-UK-0036,uk,name;work_email;gross_pay;net_pay
+2026-09-28T19:01,Brightline CPA,NewAI,DOC-1497,BRI-US-0101,us,name;work_email;gross_pay;net_pay
+2026-09-28T19:48,Brightline CPA,NewAI,DOC-1417,BRI-US-0021,us,name;work_email;gross_pay;net_pay
+2026-09-28T20:56,Thames Payroll Ltd,NewAI,DOC-1299,THA-UK-0158,uk,name;work_email;gross_pay;net_pay
+2026-09-28T21:02,Hartmann Steuerberatung,NewAI,DOC-1109,HAR-DE-0108,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-28T21:09,Brightline CPA,NewAI,DOC-1426,BRI-US-0030,us,name;work_email;gross_pay;net_pay
+2026-09-28T21:11,Thames Payroll Ltd,NewAI,DOC-1234,THA-UK-0093,uk,name;work_email;gross_pay;net_pay
+2026-09-28T21:35,Hartmann Steuerberatung,NewAI,DOC-1075,HAR-DE-0074,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-28T22:56,Brightline CPA,NewAI,DOC-1471,BRI-US-0075,us,name;work_email;gross_pay;net_pay
+2026-09-28T23:08,Thames Payroll Ltd,NewAI,DOC-1149,THA-UK-0008,uk,name;work_email;gross_pay;net_pay
+2026-09-29T00:44,Thames Payroll Ltd,NewAI,DOC-1302,THA-UK-0161,uk,name;work_email;gross_pay;net_pay
+2026-09-29T01:10,Brightline CPA,NewAI,DOC-1468,BRI-US-0072,us,name;work_email;gross_pay;net_pay
+2026-09-29T03:07,Hartmann Steuerberatung,NewAI,DOC-1053,HAR-DE-0052,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-29T03:09,Hartmann Steuerberatung,NewAI,DOC-1133,HAR-DE-0132,de,name;work_email;gross_pay;net_pay
+2026-09-29T03:35,Hartmann Steuerberatung,NewAI,DOC-1019,HAR-DE-0018,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-09-29T03:41,Thames Payroll Ltd,NewAI,DOC-1351,THA-UK-0210,uk,name;work_email;gross_pay;net_pay
+2026-09-29T03:50,Thames Payroll Ltd,NewAI,DOC-1295,THA-UK-0154,uk,name;work_email;gross_pay;net_pay
+2026-09-29T03:52,Hartmann Steuerberatung,NewAI,DOC-1071,HAR-DE-0070,de,name;work_email;gross_pay;net_pay
+2026-09-29T05:30,Hartmann Steuerberatung,NewAI,DOC-1127,HAR-DE-0126,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-29T05:48,Hartmann Steuerberatung,NewAI,DOC-1134,HAR-DE-0133,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-29T07:22,Hartmann Steuerberatung,NewAI,DOC-1081,HAR-DE-0080,de,name;work_email;gross_pay;net_pay
+2026-09-29T07:56,Brightline CPA,NewAI,DOC-1434,BRI-US-0038,us,name;work_email;gross_pay;net_pay
+2026-09-29T10:07,Hartmann Steuerberatung,NewAI,DOC-1032,HAR-DE-0031,de,name;work_email;gross_pay;net_pay
+2026-09-29T10:44,Thames Payroll Ltd,NewAI,DOC-1146,THA-UK-0005,uk,name;work_email;gross_pay;net_pay
+2026-09-29T10:46,Brightline CPA,NewAI,DOC-1440,BRI-US-0044,us,name;work_email;gross_pay;net_pay
+2026-09-29T12:21,Thames Payroll Ltd,NewAI,DOC-1275,THA-UK-0134,uk,name;work_email;gross_pay;net_pay
+2026-09-29T12:59,Thames Payroll Ltd,NewAI,DOC-1197,THA-UK-0056,uk,name;work_email;gross_pay;net_pay
+2026-09-29T12:59,Thames Payroll Ltd,NewAI,DOC-1315,THA-UK-0174,uk,name;work_email;gross_pay;net_pay
+2026-09-29T13:33,Hartmann Steuerberatung,NewAI,DOC-1056,HAR-DE-0055,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-29T13:37,Brightline CPA,NewAI,DOC-1500,BRI-US-0104,us,name;work_email;gross_pay;net_pay
+2026-09-29T13:52,Thames Payroll Ltd,NewAI,DOC-1390,THA-DE-0029,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-09-29T14:13,Brightline CPA,NewAI,DOC-1469,BRI-US-0073,us,name;work_email;gross_pay;net_pay
+2026-09-29T14:52,Hartmann Steuerberatung,NewAI,DOC-1139,HAR-DE-0138,de,name;work_email;gross_pay;net_pay;church_tax;sick_pay
+2026-09-29T14:55,Brightline CPA,NewAI,DOC-1452,BRI-US-0056,us,name;work_email;gross_pay;net_pay
+2026-09-29T15:08,Hartmann Steuerberatung,NewAI,DOC-1067,HAR-DE-0066,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-09-29T15:26,Thames Payroll Ltd,NewAI,DOC-1281,THA-UK-0140,uk,name;work_email;gross_pay;net_pay
+2026-09-29T15:59,Hartmann Steuerberatung,NewAI,DOC-1102,HAR-DE-0101,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-09-29T19:16,Thames Payroll Ltd,NewAI,DOC-1309,THA-UK-0168,uk,name;work_email;gross_pay;net_pay
+2026-09-29T19:33,Brightline CPA,NewAI,DOC-1447,BRI-US-0051,us,name;work_email;gross_pay;net_pay
+2026-09-29T19:53,Thames Payroll Ltd,NewAI,DOC-1330,THA-UK-0189,uk,name;work_email;gross_pay;net_pay
+2026-09-29T20:11,Brightline CPA,NewAI,DOC-1425,BRI-US-0029,us,name;work_email;gross_pay;net_pay
+2026-09-29T21:06,Brightline CPA,NewAI,DOC-1459,BRI-US-0063,us,name;work_email;gross_pay;net_pay
+2026-09-29T21:24,Thames Payroll Ltd,NewAI,DOC-1296,THA-UK-0155,uk,name;work_email;gross_pay;net_pay
+2026-09-29T21:28,Hartmann Steuerberatung,NewAI,DOC-1050,HAR-DE-0049,de,name;work_email;gross_pay;net_pay;union_dues
+2026-09-29T21:41,Thames Payroll Ltd,NewAI,DOC-1199,THA-UK-0058,uk,name;work_email;gross_pay;net_pay
+2026-09-29T22:46,Brightline CPA,NewAI,DOC-1424,BRI-US-0028,us,name;work_email;gross_pay;net_pay
+2026-09-29T23:36,Brightline CPA,NewAI,DOC-1439,BRI-US-0043,us,name;work_email;gross_pay;net_pay
+2026-09-30T00:25,Thames Payroll Ltd,NewAI,DOC-1150,THA-UK-0009,uk,name;work_email;gross_pay;net_pay
+2026-09-30T00:55,Thames Payroll Ltd,NewAI,DOC-1225,THA-UK-0084,uk,name;work_email;gross_pay;net_pay
+2026-09-30T03:05,Brightline CPA,NewAI,DOC-1485,BRI-US-0089,us,name;work_email;gross_pay;net_pay
+2026-09-30T03:16,Thames Payroll Ltd,NewAI,DOC-1266,THA-UK-0125,uk,name;work_email;gross_pay;net_pay
+2026-09-30T04:43,Thames Payroll Ltd,NewAI,DOC-1176,THA-UK-0035,uk,name;work_email;gross_pay;net_pay
+2026-09-30T05:04,Thames Payroll Ltd,NewAI,DOC-1312,THA-UK-0171,uk,name;work_email;gross_pay;net_pay
+2026-09-30T05:54,Brightline CPA,NewAI,DOC-1505,BRI-US-0109,us,name;work_email;gross_pay;net_pay
+2026-09-30T06:34,Thames Payroll Ltd,NewAI,DOC-1311,THA-UK-0170,uk,name;work_email;gross_pay;net_pay
+2026-09-30T06:48,Brightline CPA,NewAI,DOC-1411,BRI-US-0015,us,name;work_email;gross_pay;net_pay
+2026-09-30T06:52,Brightline CPA,NewAI,DOC-1401,BRI-US-0005,us,name;work_email;gross_pay;net_pay
+2026-09-30T07:09,Thames Payroll Ltd,NewAI,DOC-1166,THA-UK-0025,uk,name;work_email;gross_pay;net_pay
+2026-09-30T07:13,Thames Payroll Ltd,NewAI,DOC-1285,THA-UK-0144,uk,name;work_email;gross_pay;net_pay
+2026-09-30T07:14,Hartmann Steuerberatung,NewAI,DOC-1044,HAR-DE-0043,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-09-30T09:18,Hartmann Steuerberatung,NewAI,DOC-1034,HAR-DE-0033,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-09-30T09:30,Thames Payroll Ltd,NewAI,DOC-1303,THA-UK-0162,uk,name;work_email;gross_pay;net_pay
+2026-09-30T10:11,Thames Payroll Ltd,NewAI,DOC-1163,THA-UK-0022,uk,name;work_email;gross_pay;net_pay
+2026-09-30T10:19,Thames Payroll Ltd,NewAI,DOC-1371,THA-DE-0010,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-30T10:28,Thames Payroll Ltd,NewAI,DOC-1333,THA-UK-0192,uk,name;work_email;gross_pay;net_pay
+2026-09-30T10:49,Hartmann Steuerberatung,NewAI,DOC-1063,HAR-DE-0062,de,name;work_email;gross_pay;net_pay
+2026-09-30T13:03,Brightline CPA,NewAI,DOC-1457,BRI-US-0061,us,name;work_email;gross_pay;net_pay
+2026-09-30T13:24,Thames Payroll Ltd,NewAI,DOC-1291,THA-UK-0150,uk,name;work_email;gross_pay;net_pay
+2026-09-30T13:50,Thames Payroll Ltd,NewAI,DOC-1356,THA-UK-0215,uk,name;work_email;gross_pay;net_pay
+2026-09-30T14:41,Brightline CPA,NewAI,DOC-1508,BRI-US-0112,us,name;work_email;gross_pay;net_pay
+2026-09-30T16:21,Brightline CPA,NewAI,DOC-1455,BRI-US-0059,us,name;work_email;gross_pay;net_pay
+2026-09-30T16:23,Thames Payroll Ltd,NewAI,DOC-1339,THA-UK-0198,uk,name;work_email;gross_pay;net_pay
+2026-09-30T17:26,Thames Payroll Ltd,NewAI,DOC-1367,THA-DE-0006,de,name;work_email;gross_pay;net_pay;church_tax
+2026-09-30T18:34,Thames Payroll Ltd,NewAI,DOC-1350,THA-UK-0209,uk,name;work_email;gross_pay;net_pay
+2026-09-30T18:51,Brightline CPA,NewAI,DOC-1407,BRI-US-0011,us,name;work_email;gross_pay;net_pay
+2026-09-30T19:17,Thames Payroll Ltd,NewAI,DOC-1294,THA-UK-0153,uk,name;work_email;gross_pay;net_pay
+2026-09-30T19:45,Brightline CPA,NewAI,DOC-1397,BRI-US-0001,us,name;work_email;gross_pay;net_pay
+2026-09-30T20:54,Hartmann Steuerberatung,NewAI,DOC-1009,HAR-DE-0008,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-09-30T21:28,Brightline CPA,NewAI,DOC-1435,BRI-US-0039,us,name;work_email;gross_pay;net_pay
+2026-09-30T22:18,Hartmann Steuerberatung,NewAI,DOC-1023,HAR-DE-0022,de,name;work_email;gross_pay;net_pay
+2026-09-30T22:36,Hartmann Steuerberatung,NewAI,DOC-1114,HAR-DE-0113,de,name;work_email;gross_pay;net_pay
+2026-10-01T01:31,Hartmann Steuerberatung,NewAI,DOC-1015,HAR-DE-0014,de,name;work_email;gross_pay;net_pay
+2026-10-01T01:36,Thames Payroll Ltd,NewAI,DOC-1331,THA-UK-0190,uk,name;work_email;gross_pay;net_pay
+2026-10-01T01:46,Thames Payroll Ltd,NewAI,DOC-1316,THA-UK-0175,uk,name;work_email;gross_pay;net_pay
+2026-10-01T01:55,Hartmann Steuerberatung,NewAI,DOC-1101,HAR-DE-0100,de,name;work_email;gross_pay;net_pay
+2026-10-01T02:25,Thames Payroll Ltd,NewAI,DOC-1184,THA-UK-0043,uk,name;work_email;gross_pay;net_pay
+2026-10-01T02:48,Brightline CPA,NewAI,DOC-1487,BRI-US-0091,us,name;work_email;gross_pay;net_pay
+2026-10-01T03:50,Thames Payroll Ltd,NewAI,DOC-1372,THA-DE-0011,de,name;work_email;gross_pay;net_pay
+2026-10-01T04:10,Brightline CPA,NewAI,DOC-1442,BRI-US-0046,us,name;work_email;gross_pay;net_pay
+2026-10-01T06:14,Thames Payroll Ltd,NewAI,DOC-1326,THA-UK-0185,uk,name;work_email;gross_pay;net_pay
+2026-10-01T08:38,Hartmann Steuerberatung,NewAI,DOC-1046,HAR-DE-0045,de,name;work_email;gross_pay;net_pay
+2026-10-01T09:37,Brightline CPA,NewAI,DOC-1427,BRI-US-0031,us,name;work_email;gross_pay;net_pay
+2026-10-01T10:04,Hartmann Steuerberatung,NewAI,DOC-1094,HAR-DE-0093,de,name;work_email;gross_pay;net_pay;church_tax
+2026-10-01T11:22,Hartmann Steuerberatung,NewAI,DOC-1030,HAR-DE-0029,de,name;work_email;gross_pay;net_pay
+2026-10-01T11:45,Brightline CPA,NewAI,DOC-1449,BRI-US-0053,us,name;work_email;gross_pay;net_pay
+2026-10-01T13:11,Thames Payroll Ltd,NewAI,DOC-1376,THA-DE-0015,de,name;work_email;gross_pay;net_pay
+2026-10-01T13:18,Hartmann Steuerberatung,NewAI,DOC-1035,HAR-DE-0034,de,name;work_email;gross_pay;net_pay;church_tax;union_dues
+2026-10-01T13:27,Thames Payroll Ltd,NewAI,DOC-1264,THA-UK-0123,uk,name;work_email;gross_pay;net_pay
+2026-10-01T13:33,Brightline CPA,NewAI,DOC-1412,BRI-US-0016,us,name;work_email;gross_pay;net_pay
+2026-10-01T13:44,Thames Payroll Ltd,NewAI,DOC-1364,THA-DE-0003,de,name;work_email;gross_pay;net_pay
+2026-10-01T14:10,Thames Payroll Ltd,NewAI,DOC-1290,THA-UK-0149,uk,name;work_email;gross_pay;net_pay
+2026-10-01T14:13,Thames Payroll Ltd,NewAI,DOC-1340,THA-UK-0199,uk,name;work_email;gross_pay;net_pay
+2026-10-01T14:31,Thames Payroll Ltd,NewAI,DOC-1200,THA-UK-0059,uk,name;work_email;gross_pay;net_pay
+2026-10-01T15:23,Thames Payroll Ltd,NewAI,DOC-1363,THA-DE-0002,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-10-01T17:33,Thames Payroll Ltd,NewAI,DOC-1209,THA-UK-0068,uk,name;work_email;gross_pay;net_pay
+2026-10-01T17:45,Thames Payroll Ltd,NewAI,DOC-1378,THA-DE-0017,de,name;work_email;gross_pay;net_pay;union_dues
+2026-10-01T18:39,Thames Payroll Ltd,NewAI,DOC-1261,THA-UK-0120,uk,name;work_email;gross_pay;net_pay
+2026-10-01T19:24,Thames Payroll Ltd,NewAI,DOC-1223,THA-UK-0082,uk,name;work_email;gross_pay;net_pay
+2026-10-01T19:38,Brightline CPA,NewAI,DOC-1499,BRI-US-0103,us,name;work_email;gross_pay;net_pay
+2026-10-01T21:26,Brightline CPA,NewAI,DOC-1461,BRI-US-0065,us,name;work_email;gross_pay;net_pay
+2026-10-01T21:46,Thames Payroll Ltd,NewAI,DOC-1250,THA-UK-0109,uk,name;work_email;gross_pay;net_pay
+2026-10-01T22:16,Hartmann Steuerberatung,NewAI,DOC-1016,HAR-DE-0015,de,name;work_email;gross_pay;net_pay
+2026-10-01T22:21,Brightline CPA,NewAI,DOC-1484,BRI-US-0088,us,name;work_email;gross_pay;net_pay
+2026-10-01T22:26,Thames Payroll Ltd,NewAI,DOC-1251,THA-UK-0110,uk,name;work_email;gross_pay;net_pay
+2026-10-01T22:41,Thames Payroll Ltd,NewAI,DOC-1252,THA-UK-0111,uk,name;work_email;gross_pay;net_pay
+2026-10-01T23:22,Brightline CPA,NewAI,DOC-1421,BRI-US-0025,us,name;work_email;gross_pay;net_pay
+2026-10-02T00:43,Hartmann Steuerberatung,NewAI,DOC-1068,HAR-DE-0067,de,name;work_email;gross_pay;net_pay;church_tax
+2026-10-02T01:52,Thames Payroll Ltd,NewAI,DOC-1349,THA-UK-0208,uk,name;work_email;gross_pay;net_pay
+2026-10-02T01:54,Hartmann Steuerberatung,NewAI,DOC-1066,HAR-DE-0065,de,name;work_email;gross_pay;net_pay
+2026-10-02T02:17,Thames Payroll Ltd,NewAI,DOC-1258,THA-UK-0117,uk,name;work_email;gross_pay;net_pay
+2026-10-02T02:34,Brightline CPA,NewAI,DOC-1445,BRI-US-0049,us,name;work_email;gross_pay;net_pay
+2026-10-02T02:47,Thames Payroll Ltd,NewAI,DOC-1216,THA-UK-0075,uk,name;work_email;gross_pay;net_pay
+2026-10-02T02:56,Hartmann Steuerberatung,NewAI,DOC-1051,HAR-DE-0050,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-10-02T03:03,Hartmann Steuerberatung,NewAI,DOC-1080,HAR-DE-0079,de,name;work_email;gross_pay;net_pay
+2026-10-02T03:09,Brightline CPA,NewAI,DOC-1453,BRI-US-0057,us,name;work_email;gross_pay;net_pay
+2026-10-02T03:13,Thames Payroll Ltd,NewAI,DOC-1152,THA-UK-0011,uk,name;work_email;gross_pay;net_pay
+2026-10-02T03:16,Hartmann Steuerberatung,NewAI,DOC-1130,HAR-DE-0129,de,name;work_email;gross_pay;net_pay;union_dues
+2026-10-02T03:30,Brightline CPA,NewAI,DOC-1483,BRI-US-0087,us,name;work_email;gross_pay;net_pay
+2026-10-02T05:23,Hartmann Steuerberatung,NewAI,DOC-1054,HAR-DE-0053,de,name;work_email;gross_pay;net_pay
+2026-10-02T05:36,Thames Payroll Ltd,NewAI,DOC-1227,THA-UK-0086,uk,name;work_email;gross_pay;net_pay
+2026-10-02T05:51,Hartmann Steuerberatung,NewAI,DOC-1070,HAR-DE-0069,de,name;work_email;gross_pay;net_pay
+2026-10-02T07:04,Brightline CPA,NewAI,DOC-1511,BRI-US-0115,us,name;work_email;gross_pay;net_pay
+2026-10-02T07:27,Thames Payroll Ltd,NewAI,DOC-1240,THA-UK-0099,uk,name;work_email;gross_pay;net_pay
+2026-10-02T07:52,Thames Payroll Ltd,NewAI,DOC-1359,THA-UK-0218,uk,name;work_email;gross_pay;net_pay
+2026-10-02T08:14,Hartmann Steuerberatung,NewAI,DOC-1052,HAR-DE-0051,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-10-02T08:54,Brightline CPA,NewAI,DOC-1396,BRI-US-0000,us,name;work_email;gross_pay;net_pay
+2026-10-02T09:11,Thames Payroll Ltd,NewAI,DOC-1344,THA-UK-0203,uk,name;work_email;gross_pay;net_pay
+2026-10-02T09:18,Thames Payroll Ltd,NewAI,DOC-1242,THA-UK-0101,uk,name;work_email;gross_pay;net_pay
+2026-10-02T09:29,Thames Payroll Ltd,NewAI,DOC-1284,THA-UK-0143,uk,name;work_email;gross_pay;net_pay
+2026-10-02T11:13,Thames Payroll Ltd,NewAI,DOC-1206,THA-UK-0065,uk,name;work_email;gross_pay;net_pay
+2026-10-02T11:23,Thames Payroll Ltd,NewAI,DOC-1246,THA-UK-0105,uk,name;work_email;gross_pay;net_pay
+2026-10-02T12:31,Thames Payroll Ltd,NewAI,DOC-1289,THA-UK-0148,uk,name;work_email;gross_pay;net_pay
+2026-10-02T13:12,Thames Payroll Ltd,NewAI,DOC-1389,THA-DE-0028,de,name;work_email;gross_pay;net_pay;sick_pay;church_tax
+2026-10-02T13:30,Brightline CPA,NewAI,DOC-1488,BRI-US-0092,us,name;work_email;gross_pay;net_pay
+2026-10-02T13:45,Thames Payroll Ltd,NewAI,DOC-1224,THA-UK-0083,uk,name;work_email;gross_pay;net_pay
+2026-10-02T13:53,Thames Payroll Ltd,NewAI,DOC-1178,THA-UK-0037,uk,name;work_email;gross_pay;net_pay
+2026-10-02T14:20,Hartmann Steuerberatung,NewAI,DOC-1131,HAR-DE-0130,de,name;work_email;gross_pay;net_pay;church_tax;sick_pay
+2026-10-02T15:06,Hartmann Steuerberatung,NewAI,DOC-1014,HAR-DE-0013,de,name;work_email;gross_pay;net_pay
+2026-10-02T15:10,Brightline CPA,NewAI,DOC-1490,BRI-US-0094,us,name;work_email;gross_pay;net_pay
+2026-10-02T15:54,Thames Payroll Ltd,NewAI,DOC-1283,THA-UK-0142,uk,name;work_email;gross_pay;net_pay
+2026-10-02T17:42,Hartmann Steuerberatung,NewAI,DOC-1086,HAR-DE-0085,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-10-02T17:58,Hartmann Steuerberatung,NewAI,DOC-1088,HAR-DE-0087,de,name;work_email;gross_pay;net_pay;sick_pay;union_dues
+2026-10-02T18:34,Thames Payroll Ltd,NewAI,DOC-1154,THA-UK-0013,uk,name;work_email;gross_pay;net_pay
+2026-10-02T18:41,Thames Payroll Ltd,NewAI,DOC-1211,THA-UK-0070,uk,name;work_email;gross_pay;net_pay
+2026-10-02T19:27,Thames Payroll Ltd,NewAI,DOC-1188,THA-UK-0047,uk,name;work_email;gross_pay;net_pay
+2026-10-02T19:39,Thames Payroll Ltd,NewAI,DOC-1157,THA-UK-0016,uk,name;work_email;gross_pay;net_pay
+2026-10-02T20:05,Thames Payroll Ltd,NewAI,DOC-1185,THA-UK-0044,uk,name;work_email;gross_pay;net_pay
+2026-10-02T20:09,Hartmann Steuerberatung,NewAI,DOC-1129,HAR-DE-0128,de,name;work_email;gross_pay;net_pay;union_dues
+2026-10-02T20:40,Thames Payroll Ltd,NewAI,DOC-1263,THA-UK-0122,uk,name;work_email;gross_pay;net_pay
+2026-10-02T21:16,Hartmann Steuerberatung,NewAI,DOC-1093,HAR-DE-0092,de,name;work_email;gross_pay;net_pay;church_tax
+2026-10-02T21:50,Thames Payroll Ltd,NewAI,DOC-1278,THA-UK-0137,uk,name;work_email;gross_pay;net_pay
+2026-10-02T22:49,Hartmann Steuerberatung,NewAI,DOC-1089,HAR-DE-0088,de,name;work_email;gross_pay;net_pay;union_dues
+2026-10-02T23:03,Thames Payroll Ltd,NewAI,DOC-1327,THA-UK-0186,uk,name;work_email;gross_pay;net_pay
+2026-10-02T23:33,Brightline CPA,NewAI,DOC-1503,BRI-US-0107,us,name;work_email;gross_pay;net_pay
+2026-10-03T00:09,Thames Payroll Ltd,NewAI,DOC-1183,THA-UK-0042,uk,name;work_email;gross_pay;net_pay
+2026-10-03T01:31,Hartmann Steuerberatung,NewAI,DOC-1042,HAR-DE-0041,de,name;work_email;gross_pay;net_pay;union_dues
+2026-10-03T01:35,Hartmann Steuerberatung,NewAI,DOC-1106,HAR-DE-0105,de,name;work_email;gross_pay;net_pay
+2026-10-03T02:05,Thames Payroll Ltd,NewAI,DOC-1248,THA-UK-0107,uk,name;work_email;gross_pay;net_pay
+2026-10-03T05:44,Hartmann Steuerberatung,NewAI,DOC-1096,HAR-DE-0095,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-10-03T06:02,Thames Payroll Ltd,NewAI,DOC-1187,THA-UK-0046,uk,name;work_email;gross_pay;net_pay
+2026-10-03T06:12,Thames Payroll Ltd,NewAI,DOC-1273,THA-UK-0132,uk,name;work_email;gross_pay;net_pay
+2026-10-03T06:36,Brightline CPA,NewAI,DOC-1420,BRI-US-0024,us,name;work_email;gross_pay;net_pay
+2026-10-03T07:15,Thames Payroll Ltd,NewAI,DOC-1214,THA-UK-0073,uk,name;work_email;gross_pay;net_pay
+2026-10-03T08:16,Thames Payroll Ltd,NewAI,DOC-1375,THA-DE-0014,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-10-03T09:00,Thames Payroll Ltd,NewAI,DOC-1173,THA-UK-0032,uk,name;work_email;gross_pay;net_pay
+2026-10-03T10:02,Hartmann Steuerberatung,NewAI,DOC-1125,HAR-DE-0124,de,name;work_email;gross_pay;net_pay
+2026-10-03T10:14,Thames Payroll Ltd,NewAI,DOC-1204,THA-UK-0063,uk,name;work_email;gross_pay;net_pay
+2026-10-03T12:17,Thames Payroll Ltd,NewAI,DOC-1212,THA-UK-0071,uk,name;work_email;gross_pay;net_pay
+2026-10-03T13:32,Thames Payroll Ltd,NewAI,DOC-1384,THA-DE-0023,de,name;work_email;gross_pay;net_pay;church_tax
+2026-10-03T15:44,Brightline CPA,NewAI,DOC-1448,BRI-US-0052,us,name;work_email;gross_pay;net_pay
+2026-10-03T17:25,Brightline CPA,NewAI,DOC-1513,BRI-US-0117,us,name;work_email;gross_pay;net_pay
+2026-10-03T18:46,Hartmann Steuerberatung,NewAI,DOC-1140,HAR-DE-0139,de,name;work_email;gross_pay;net_pay
+2026-10-03T19:52,Thames Payroll Ltd,NewAI,DOC-1254,THA-UK-0113,uk,name;work_email;gross_pay;net_pay
+2026-10-03T19:57,Thames Payroll Ltd,NewAI,DOC-1335,THA-UK-0194,uk,name;work_email;gross_pay;net_pay
+2026-10-03T20:25,Thames Payroll Ltd,NewAI,DOC-1346,THA-UK-0205,uk,name;work_email;gross_pay;net_pay
+2026-10-03T20:29,Hartmann Steuerberatung,NewAI,DOC-1036,HAR-DE-0035,de,name;work_email;gross_pay;net_pay;church_tax;sick_pay
+2026-10-03T21:47,Brightline CPA,NewAI,DOC-1512,BRI-US-0116,us,name;work_email;gross_pay;net_pay
+2026-10-03T22:35,Hartmann Steuerberatung,NewAI,DOC-1108,HAR-DE-0107,de,name;work_email;gross_pay;net_pay;church_tax;sick_pay
+2026-10-03T22:38,Thames Payroll Ltd,NewAI,DOC-1334,THA-UK-0193,uk,name;work_email;gross_pay;net_pay
+2026-10-03T23:54,Hartmann Steuerberatung,NewAI,DOC-1091,HAR-DE-0090,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-10-04T00:22,Thames Payroll Ltd,NewAI,DOC-1360,THA-UK-0219,uk,name;work_email;gross_pay;net_pay
+2026-10-04T01:01,Thames Payroll Ltd,NewAI,DOC-1201,THA-UK-0060,uk,name;work_email;gross_pay;net_pay
+2026-10-04T02:27,Brightline CPA,NewAI,DOC-1437,BRI-US-0041,us,name;work_email;gross_pay;net_pay
+2026-10-04T06:04,Thames Payroll Ltd,NewAI,DOC-1237,THA-UK-0096,uk,name;work_email;gross_pay;net_pay
+2026-10-04T06:27,Thames Payroll Ltd,NewAI,DOC-1189,THA-UK-0048,uk,name;work_email;gross_pay;net_pay
+2026-10-04T08:56,Hartmann Steuerberatung,NewAI,DOC-1024,HAR-DE-0023,de,name;work_email;gross_pay;net_pay;union_dues
+2026-10-04T11:10,Hartmann Steuerberatung,NewAI,DOC-1007,HAR-DE-0006,de,name;work_email;gross_pay;net_pay
+2026-10-04T12:42,Hartmann Steuerberatung,NewAI,DOC-1026,HAR-DE-0025,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-10-04T13:33,Thames Payroll Ltd,NewAI,DOC-1270,THA-UK-0129,uk,name;work_email;gross_pay;net_pay
+2026-10-04T13:37,Hartmann Steuerberatung,NewAI,DOC-1011,HAR-DE-0010,de,name;work_email;gross_pay;net_pay;church_tax
+2026-10-04T14:16,Hartmann Steuerberatung,NewAI,DOC-1002,HAR-DE-0001,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-10-04T14:23,Hartmann Steuerberatung,NewAI,DOC-1006,HAR-DE-0005,de,name;work_email;gross_pay;net_pay
+2026-10-04T14:58,Thames Payroll Ltd,NewAI,DOC-1191,THA-UK-0050,uk,name;work_email;gross_pay;net_pay
+2026-10-04T15:48,Thames Payroll Ltd,NewAI,DOC-1172,THA-UK-0031,uk,name;work_email;gross_pay;net_pay
+2026-10-04T16:28,Thames Payroll Ltd,NewAI,DOC-1164,THA-UK-0023,uk,name;work_email;gross_pay;net_pay
+2026-10-04T16:40,Thames Payroll Ltd,NewAI,DOC-1374,THA-DE-0013,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-10-04T17:46,Thames Payroll Ltd,NewAI,DOC-1313,THA-UK-0172,uk,name;work_email;gross_pay;net_pay
+2026-10-04T20:50,Brightline CPA,NewAI,DOC-1399,BRI-US-0003,us,name;work_email;gross_pay;net_pay
+2026-10-04T21:15,Brightline CPA,NewAI,DOC-1478,BRI-US-0082,us,name;work_email;gross_pay;net_pay
+2026-10-04T21:20,Brightline CPA,NewAI,DOC-1501,BRI-US-0105,us,name;work_email;gross_pay;net_pay
+2026-10-04T21:33,Brightline CPA,NewAI,DOC-1405,BRI-US-0009,us,name;work_email;gross_pay;net_pay
+2026-10-04T21:48,Thames Payroll Ltd,NewAI,DOC-1175,THA-UK-0034,uk,name;work_email;gross_pay;net_pay
+2026-10-04T23:00,Hartmann Steuerberatung,NewAI,DOC-1137,HAR-DE-0136,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-10-04T23:31,Thames Payroll Ltd,NewAI,DOC-1232,THA-UK-0091,uk,name;work_email;gross_pay;net_pay
+2026-10-05T01:31,Thames Payroll Ltd,NewAI,DOC-1277,THA-UK-0136,uk,name;work_email;gross_pay;net_pay
+2026-10-05T02:44,Brightline CPA,NewAI,DOC-1467,BRI-US-0071,us,name;work_email;gross_pay;net_pay
+2026-10-05T03:38,Brightline CPA,NewAI,DOC-1495,BRI-US-0099,us,name;work_email;gross_pay;net_pay
+2026-10-05T05:02,Hartmann Steuerberatung,NewAI,DOC-1041,HAR-DE-0040,de,name;work_email;gross_pay;net_pay;union_dues;sick_pay
+2026-10-05T05:17,Hartmann Steuerberatung,NewAI,DOC-1069,HAR-DE-0068,de,name;work_email;gross_pay;net_pay;sick_pay
+2026-10-05T06:00,Hartmann Steuerberatung,NewAI,DOC-1079,HAR-DE-0078,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-10-05T06:54,Hartmann Steuerberatung,NewAI,DOC-1061,HAR-DE-0060,de,name;work_email;gross_pay;net_pay;union_dues;church_tax
+2026-10-05T07:10,Hartmann Steuerberatung,NewAI,DOC-1049,HAR-DE-0048,de,name;work_email;gross_pay;net_pay
+2026-10-05T07:49,Thames Payroll Ltd,NewAI,DOC-1341,THA-UK-0200,uk,name;work_email;gross_pay;net_pay

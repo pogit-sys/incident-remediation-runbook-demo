@@ -1,0 +1,9 @@
+# Which vendors each feature may send data to, by region.
+# The runbook's kill switch edits this file. Set back to true to undo.
+
+ai_payroll_extraction:
+  vendors:
+    NewAI:
+      us: true
+      uk: true
+      eu: true

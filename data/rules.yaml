@@ -1,0 +1,52 @@
+# Rules the runbook applies to the facts it finds. Legal owns this file.
+# Each rule adds a flag to the incident. Flags are prompts for judgment, not conclusions.
+# {customers} in a flag is filled in with the customers that triggered it.
+
+eu_uk_regions: [uk, de, fr, ie, nl, es, it, eu]
+
+special_category_fields: [church_tax, sick_pay, union_dues, health]
+
+rules:
+  - id: processor_notice
+    when: affected_eu_uk
+    flag: "We're probably the processor, not the controller (confirm against the MSA and DPA). Tell each affected customer without undue delay (GDPR Art. 33(2)). Our confirmation starts their 72-hour clock to regulators (EDPB Guidelines 9/2022), so send verified facts promptly and update in phases (Art. 33(4))."
+
+  - id: data_chain
+    when: affected_eu_uk
+    flag: "The data likely belongs to our customers' own clients, who may be the controllers. Our customers need our facts quickly so they can inform them."
+
+  - id: special_category
+    when: special_category_present
+    flag: "Payslip fields (church tax, sick pay, union dues) suggest special category data (GDPR Art. 9(1)). Higher risk, and it may create affirmative reporting obligations for our customers, including notice to affected individuals if the risk is high."
+
+  - id: german_tax_adviser
+    when: german_tax_adviser_affected
+    flag: "{customers} is a German tax adviser. Tax advisers face stricter vendor-confidentiality rules and potential criminal exposure for mishandling client secrets. The known facts probably don't rise to that level, and the obligation likely sits with the customer, but confirm with local counsel."
+
+  - id: no_transfer_mechanism
+    when: vendor_no_transfer_mechanism
+    flag: "No DPF certification or SCCs (with the UK Addendum) on file for this vendor. Possible unlawful transfer, not just a notice miss."
+
+  - id: no_dpa
+    when: vendor_no_dpa
+    flag: "No signed DPA with this vendor on file. Confirm what data it holds, capture the metadata we need for customer questions, then have it delete content and logs and certify deletion in writing."
+
+  - id: approval_required
+    when: customer_requires_approval
+    flag: "{customers}'s contract requires prior written approval of new subprocessors. Don't re-enable the feature for UK/EU data without notice and that written approval."
+
+  - id: us_customer_notice
+    when: us_customers_affected
+    flag: "{customers}: U.S. data also went to this vendor. Accounting firms are likely GLBA financial institutions with vendor-oversight duties, and will expect notice of a new provider, though not necessarily in advance. If tax return information was involved, check IRC 7216: offshore processing or other uses, like model training, need the taxpayer's prior written consent."
+
+  - id: us_ftc_500
+    when: us_people_500_plus
+    flag: "500+ U.S. people affected. If unencrypted data was acquired without authorization, our accounting-firm customers may owe the FTC notice within 30 days (16 C.F.R. 314.4(j))."
+
+  - id: outside_counsel
+    when: always
+    flag: "Gut-check the approach with strong data privacy counsel that has a Germany/UK office or ties to local counsel."
+
+  - id: insurers
+    when: always
+    flag: "Check notice requirements under our cyber and E&O policies today."

@@ -1,0 +1,69 @@
+# The nine-step Compliance Plan of Action from the memo. Edit owners, deadlines or wording here.
+# key: what the runbook code uses to find a step. Don't change these.
+# due: { today: true } = end of the day the incident was discovered,
+#      { hours: N } = N hours after discovery, { bd: N } = N business days after discovery.
+# auto: what the runbook does for you when you run `start`.
+
+- id: 1
+  key: channel
+  title: Create a locked incident channel
+  owner: Legal
+  due: { today: true }
+  auto: Opens a private Slack channel limited to the remediation team, with a pinned privilege banner.
+
+- id: 2
+  key: confirm
+  title: Confirm what the provider received
+  owner: Engineering/Ops
+  due: { hours: 4 }
+  auto: Pulls customers, documents, dates and data fields sent to the vendor from the processing log.
+
+- id: 3
+  key: stop
+  title: Stop the processing for UK/EU data
+  owner: Engineering
+  due: { today: true }
+  auto: Turns the vendor off for all UK and EU data, for every customer. The rest of the product stays live.
+
+- id: 4
+  key: size
+  title: Size the population
+  owner: Security + Engineering
+  due: { hours: 24 }
+  auto: Counts people and documents by customer and country, and flags special category data.
+
+- id: 5
+  key: transfer
+  title: Confirm the transfer mechanism
+  owner: Product + Legal
+  due: { hours: 24 }
+  auto: Checks the registry for DPF certification or SCCs with the UK Addendum, and flags what's missing.
+
+- id: 6
+  key: delete
+  title: Secure, then delete
+  owner: Product + Legal
+  due: { bd: 5 }
+  auto: Adds a checklist - confirm what the vendor holds, capture metadata, then deletion and a certificate.
+
+- id: 7
+  key: respond
+  title: Respond to the customer
+  owner: "TBD: Senior RM, Legal, security lead or CEO"
+  due: { hours: 24 }
+  starts_customer_clock: true
+  auto: Drafts the customer email for each affected UK/EU customer. Nothing is sent.
+
+- id: 8
+  key: plan
+  title: Deliver the five-business-day plan
+  owner: Legal + Engineering + Product
+  due: { bd: 5 }
+  auto: Drafts the plan, including root cause, deletion status and the new-subprocessor control.
+
+- id: 9
+  key: privilege
+  title: Ensure privilege and notify insurers
+  owner: Legal + Finance
+  due: { today: true }
+  auto: Writes the privileged incident report and flags outside counsel and insurer notice.

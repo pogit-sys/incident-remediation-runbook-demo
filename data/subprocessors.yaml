@@ -1,0 +1,24 @@
+# Approved (and not-yet-approved) sub-processors. Sample data.
+# transfer_mechanism: dpf | sccs | none
+
+- name: NewAI
+  purpose: Document extraction for the AI payroll feature
+  hosted_in: us
+  approved_regions: []          # not approved anywhere yet
+  dpa_signed: false
+  transfer_mechanism: none
+  trains_on_data: false
+  log_retention_days: 30
+  on_public_list_since: 2026-09-21
+  security_contact: privacy@newai.example
+
+- name: CloudHost
+  purpose: Infrastructure hosting
+  hosted_in: eu
+  approved_regions: [us, uk, eu]
+  dpa_signed: true
+  transfer_mechanism: sccs
+  trains_on_data: false
+  log_retention_days: 30
+  on_public_list_since: 2024-01-15
+  security_contact: security@cloudhost.example
